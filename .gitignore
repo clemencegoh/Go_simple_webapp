@@ -6,3 +6,5 @@ cli-vendor.mk
 .dockerignore
 Dockerfile
 docker-compose.yaml
+build
+.idea
